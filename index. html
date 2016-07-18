@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Website</title>
+</head>
+<body>
+	<h1>This is my first github pages</h1>
+</body>
+<style>
+	body{
+		background-color: black;
+		color: #fff;
+		text-align:center;
+	}
+</style>
+</html>
